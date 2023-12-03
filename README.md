@@ -1,7 +1,7 @@
 ﻿
 # Cylindrical image to sky fisheye images for RICOH
 
-A simple program that transforms bar charts into fish-eye views facing the sky, and calculates their Sky View Factor (SVF). 
+This is a simple program that converts a cylindrical projection image into a fisheye view toward the sky and calculates its sky view factor (SVF).
 
 It offers two methods: equidistant projection and equal-area projection, and allows customization of the threshold value for calculating SVF.
 
